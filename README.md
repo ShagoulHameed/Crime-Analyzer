@@ -128,3 +128,6 @@ _Per day_  ![image](https://github.com/ShagoulHameed/Crime-Analyzer/assets/15489
 ## Contact
 
 For any inquiries, please contact [Shagoul Hameed](mailto:Shagoul04@gmail.com).
+https://www.linkedin.com/in/shagoul-hameed/
+## Project Demo Video
+https://www.linkedin.com/posts/shagoul-hameed_datascience-machinelearning-python-activity-7219683698923692035-szyt?utm_source=share&utm_medium=member_desktop
