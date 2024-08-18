@@ -13,8 +13,8 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 from sklearn.utils.multiclass import unique_labels
 
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
-
+#st.set_option('deprecation.showPyplotGlobalUse', False)
+#comment this abve line not working in stremli app
 
 @st.cache_data
 def load_data(file_path):
